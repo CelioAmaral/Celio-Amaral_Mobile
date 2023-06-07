@@ -41,9 +41,13 @@ npm install
 
 #### * Change the Ipv4 of these two files. With your computer's IPv4:
 #### Ipv4_1:
+src/services/api.ts
+
 ![img1](https://github.com/bc-fullstack-03/Celio-Amaral_Mobile/blob/main/public/ipv4_1.png)
 
 #### Ipv4_2:
+src/components/PostItem/index.tsx
+
 ![img2](https://github.com/bc-fullstack-03/Celio-Amaral_Mobile/blob/main/public/ipv4_2.png)
 
 #### * start the mobile:
