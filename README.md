@@ -27,7 +27,7 @@ npm install -g expo-cli
 
 #### * [Back-end](https://github.com/bc-fullstack-03/Celio_Amaral-Backend) Java or [Back-end](https://github.com/CelioAmaral/backend/tree/up) Node.js environment of the project configured and running.
 
-Obs: The api used in the front-end was Node.js.
+Obs: The api used in the mobile was Node.js.
 ** Branche: up
 
 ```bash
