@@ -51,7 +51,7 @@ src/components/PostItem/index.tsx
 ![img2](https://github.com/bc-fullstack-03/Celio-Amaral_Mobile/blob/main/public/ipv4_2.png)
 
 #### * start the mobile:
-npx expo start
+npm run start
 
 ```bash
 # Access the app using one of these ways:
